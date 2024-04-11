@@ -1,0 +1,5 @@
+salary,1200,january,INCOME
+gift,2000,march,INCOME
+doctor,125,april,EXPENSE
+el,20,may,EXPENSE
+el,20,july,EXPENSE
